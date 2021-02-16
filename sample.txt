@@ -1,2 +1,6 @@
-This is my first line
+this is my first line
+
 second line -feature1
+
+this is my change - feature2
+
