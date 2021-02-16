@@ -4,3 +4,5 @@ second line -feature1
 
 this is my change - feature2
 
+git hub resolve demo - change from master
+
